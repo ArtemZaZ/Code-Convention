@@ -28,7 +28,7 @@ class Test:
 ```
 
 Тут показано почему именно так:
-![Image alt](https://github.com/ArtemZaZ/Code-Convention/blob/master/images/functions.png)
+![Image alt](https://github.com/ArtemZaZ/Code-Convention/blob/master/images/functions.png)   
 ф-ия обработчик **_handler** инициализируется как поле класса и занимает меньше места, а метод **overrideFunction**
 инициализируется, как пустая ф-ия с комментарием, что она делает, так видно, что она делает и
 видно, что ее переопределяли
